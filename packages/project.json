@@ -1,6 +1,6 @@
 {
   "name": "chess-ui-e2e",
-  "$schema": "../../node_modules/nx/schemas/project-schema.json",
+  "$schema": "../node_modules/nx/schemas/project-schema.json",
   "projectType": "application",
   "sourceRoot": "packages/chess-ui-e2e/src",
   "implicitDependencies": ["chess-ui"],
